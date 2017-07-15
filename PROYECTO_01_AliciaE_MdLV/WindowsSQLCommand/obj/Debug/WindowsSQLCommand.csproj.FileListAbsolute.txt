@@ -1,0 +1,78 @@
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.exe
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.pdb
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\ResolveAssemblyReference.cache
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form1.resources
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Properties.Resources.resources
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.csproj.GenerateResource.Cache
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.exe
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.pdb
+D:\A3\A3\XD\prohibido\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form2.resources
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.exe
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.pdb
+J:\WindowsSQLCommand\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.exe
+J:\WindowsSQLCommand\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.pdb
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\ResolveAssemblyReference.cache
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form1.resources
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form2.resources
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmCliente.resources
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Properties.Resources.resources
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.csproj.GenerateResource.Cache
+J:\WindowsSQLCommand\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscar.resources
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.exe
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.pdb
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.exe
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.pdb
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\ResolveAssemblyReference.cache
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form1.resources
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form2.resources
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscar.resources
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmCliente.resources
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Properties.Resources.resources
+D:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.csproj.GenerateResource.Cache
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.exe
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.pdb
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.exe
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.pdb
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\ResolveAssemblyReference.cache
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form1.resources
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form2.resources
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscar.resources
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmCliente.resources
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Properties.Resources.resources
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.csproj.GenerateResource.Cache
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FormVendedor.resources
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscarVendedor.resources
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmFactura.resources
+H:\6to semestre\C#\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscarProducto.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.exe
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.pdb
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.exe
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.pdb
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\ResolveAssemblyReference.cache
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form1.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form2.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FormVendedor.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscar.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscarProducto.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscarVendedor.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmCliente.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmFactura.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Properties.Resources.resources
+E:\usb actualizado\ventas\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.csproj.GenerateResource.Cache
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.exe
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.pdb
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.exe
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.pdb
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\ResolveAssemblyReference.cache
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form1.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form2.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FormVendedor.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscar.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscarProducto.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscarVendedor.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmCliente.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmFactura.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Properties.Resources.resources
+E:\1234567890\PRG-ULTIMO\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.csproj.GenerateResource.Cache
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.exe
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.pdb

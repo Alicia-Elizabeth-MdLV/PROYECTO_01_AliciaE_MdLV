@@ -1,0 +1,15 @@
+H:\Alicia_M_V_C#\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.exe
+H:\Alicia_M_V_C#\WindowsSQLCommand\bin\Debug\WindowsSQLCommand.pdb
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\PROYECTO_01.csprojResolveAssemblyReference.cache
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form1.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Form2.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FormVendedor.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscar.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscarProducto.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmBuscarVendedor.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmCliente.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.FrmFactura.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.Properties.Resources.resources
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\PROYECTO_01.csproj.GenerateResource.Cache
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.exe
+H:\Alicia_M_V_C#\WindowsSQLCommand\obj\Debug\WindowsSQLCommand.pdb
